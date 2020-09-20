@@ -1,2 +1,2 @@
-![](https://cdn.iconscout.com/icon/free/png-512/django-2-282855.png)
+![](https://img.pngio.com/admin-dashboards-building-saas-10-matt-layman-django-png-2400_800.png)
 ---
