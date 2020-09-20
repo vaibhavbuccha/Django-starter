@@ -6,6 +6,11 @@
     <title>Registration</title>
 </head>
 <body>
+    <div>
+        {% for message in messages %}
+        <h3>{{ message }}</h3>
+        {% endfor %}
+    </div>
     <form action="register" method="POST" >
         {% csrf_token %}
         <input type="text" name="first_name" id="" placeholder="First Name"><br>
